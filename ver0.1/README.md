@@ -13,4 +13,4 @@ GPSDOなどの10MHz基準信号の分配基板です。
 * DCR：5.3Ω@10MHz  
 
 <img src="experiment/setup.jpg" width="500">  
-<img src="experiment/Screenshot 20210626170017.png" width="500">  
+<img src="experiment/Screenshot 20210626171836.png" width="500">  
